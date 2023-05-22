@@ -8,7 +8,7 @@ de otro grupo y hago el commit "Cambiado el punto 10" desde la otra cuenta
 
 ## GitHub flow
 1. empleado entorno de trabajo remoto
-2. yo desde las dos cuentas que tengo
+2. yo desde mi perfil personal https://github.com/geannyna/maquetacion_grid/forks y yo desde Hack-Part-Time-4
 3. añadir otros archivos, codigo modificado o codigo añadido
 4. git init, git add -A, git commit -m, git remote, git push, git branch y git checkout o switch
 5. commit, pull request y merge pull request
